@@ -1,3 +1,1 @@
-"# intership-project" 
-"# intership-project" 
-"# internship-project" 
+"# summer-internship" 
